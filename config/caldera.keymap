@@ -15,11 +15,11 @@
             // | CTRL | ALT | GUI | SPC | SPC | SPC |     | SPC | LOW |LARW |DARW |UARW | RARW |
 
             bindings = <
-&kp ESCAPE  &kp N1    &kp N2    &kp N3     &kp N4  &kp N5       &kp N6          &kp N7  &kp N8          &kp N9          &kp N0         &kp BSPC
-&kp TAB     &kp Q     &kp W     &kp F      &kp P   &kp G        &kp J           &kp L   &kp U           &kp Y           &kp SEMICOLON  &kp BSLH
-&kp CAPS    &kp A     &kp R     &kp S      &kp T   &kp D        &kp H           &kp N   &kp E           &kp I           &kp O          &kp RET
-&kp LSHFT   &kp Z     &kp X     &kp C      &kp V   &kp B        &kp K           &kp M   &kp COMMA       &kp DOT         &kp FSLH       &kp APOS
-&kp LCTRL   &kp LALT  &kp LGUI  &kp SPACE  &mo 2   &kp SPACE    &kp LEFT_SHIFT  &mo 1   &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW   &kp RIGHT_ARROW
+&kp ESCAPE  &kp N1    &kp N2    &kp N3  &kp N4  &kp N5       &kp N6           &kp N7     &kp N8          &kp N9          &kp N0         &kp BSPC
+&kp TAB     &kp Q     &kp W     &kp F   &kp P   &kp G        &kp J            &kp L      &kp U           &kp Y           &kp SEMICOLON  &kp BSLH
+&kp CAPS    &kp A     &kp R     &kp S   &kp T   &kp D        &kp H            &kp N      &kp E           &kp I           &kp O          &kp SQT
+&kp LSHFT   &kp Z     &kp X     &kp C   &kp V   &kp B        &kp K            &kp M      &kp COMMA       &kp DOT         &kp FSLH       &mo 2
+&kp LCTRL   &kp LALT  &kp LGUI  &mo 1   &mo 1   &kp SPACE    &kp RIGHT_SHIFT  &kp ENTER  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW   &kp RIGHT_ARROW
             >;
         };
 
